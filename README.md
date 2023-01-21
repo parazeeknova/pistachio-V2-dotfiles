@@ -49,7 +49,7 @@
 ---
 | Rofi | Desktop | Terminal | Conky |
 | --- | --- | --- | --- |
-|![Rofi](https://github.com/parazeeknova/pistachio-dotfiles/blob/main/Preview/Rofi-launcher.png)|![Desktop](https://github.com/parazeeknova/pistachio-dotfiles/blob/main/Preview/Desktop.png)|![Terminal](https://github.com/parazeeknova/pistachio-dotfiles/blob/main/Preview/Terminal.png)|![Conky](https://github.com/parazeeknova/pistachio-dotfiles/blob/main/Preview/Conky.png)|
+|![Rofi](https://github.com/parazeeknova/pistachio-V2-dotfiles/blob/main/previews/rofi.png)|![Desktop](https://github.com/parazeeknova/pistachio-V2-dotfiles/blob/main/previews/homescreen.png)|![Terminal](https://github.com/parazeeknova/pistachio-V2-dotfiles/blob/main/previews/terminal.png)|![Conky](https://github.com/parazeeknova/pistachio-dotfiles/blob/main/Preview/Conky.png)|
 ---
 ## 🌟 Credits : 
 - [***adi1090x***](https://github.com/adi1090x) ~ For his amazing minimal distro and themes and preconfigured openbox WM .
