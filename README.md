@@ -4,7 +4,7 @@
 - 💻 Arch Linux Openbox Configuration by [*parazeeknova*](https://github.com/parazeeknova).
 - 📌 Updated version of previous rice due to entire theme structure change in Archcraft .
 
-![Screenshot](previews/homescreen.png)
+![Screenshot](previews/Rice.png)
 
 <p align="center"> Screenshot 🎞️ </p>
 
@@ -50,6 +50,10 @@
 | Rofi | Desktop | Terminal | Conky |
 | --- | --- | --- | --- |
 |![Rofi](https://github.com/parazeeknova/pistachio-V2-dotfiles/blob/main/previews/rofi-zoom.png)|![Desktop](https://github.com/parazeeknova/pistachio-V2-dotfiles/blob/main/previews/homescreen.png)|![Terminal](https://github.com/parazeeknova/pistachio-V2-dotfiles/blob/main/previews/terminal.png)|![Conky](https://github.com/parazeeknova/pistachio-dotfiles/blob/main/Preview/Conky.png)|
+---
+
+![Screenshot](previews/homescreen.png)
+
 ---
 ## 🌟 Credits : 
 - [***adi1090x***](https://github.com/adi1090x) ~ For his amazing minimal distro and themes and preconfigured openbox WM .
