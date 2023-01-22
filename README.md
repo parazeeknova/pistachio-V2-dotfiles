@@ -36,7 +36,7 @@
 ## 🪜 Installation : 
 <img align="right" src="https://github.com/parazeeknova/pistachio-V2-dotfiles/blob/main/resources/rice.gif?raw=true" width='240'/>
 
-- **Get the files from** : Here (Soon)
+- **Get the files from** : The Repo
 - Only works on _`Archcraft`_ , You can still use/replace openbox folder for the dotfiles and configure them. <br>
 ( ***NOTE-FOR-ARCHCRAFT-USER'S*** : This Openbox config only contains two folders openbox and openbox-themes. First ***BACKUP*** your default config to a seperate folder.)
 - Install the following programs on your computer: [`cava`](https://github.com/karlstav/cava) [`Zafiro`](https://www.gnome-look.org/p/1209330) [`Phinger-cursors`](https://github.com/phisch/phinger-cursors) 
@@ -62,3 +62,4 @@
 - [***adi1090x***](https://github.com/adi1090x) ~ For his amazing minimal distro and themes and preconfigured openbox WM .
 - [***closebox73x***](https://www.gnome-look.org/u/closebox73x) ~ For his conky themes. 
 - [***Polybar-scripts***](https://github.com/polybar/polybar-scripts) ~ For info-cava module.
+- [***Edge-frfox***](https://github.com/bmFtZQ/edge-frfox) ~ For firefox css.
