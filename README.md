@@ -9,13 +9,22 @@
 <p align="center"> Screenshot 🎞️ </p>
 
 ---
-## 🚀 Changelog : 
+# 🚀 Changelog : 
 - **Installation** : Just drag and drop few folders (Thanks for new Theming structure in Archcraft)
 - **Polybar Bars** : Added more bars for functionality and modules 
 - **Base Theme** : Changed base theme from bitwise-forest to everforest 
 
-## 🏷️ Known issue : 
+# 🏷️ Known issue : 
 - After reboot you need to reselect Pistachio Theme. 
+
+# ⌛ Tasks : 
+- [x] Upload dotfiles(preview-version)
+- [x] Create readme for installation 
+- [ ] Merge openbox and openbox-themes folder 
+- [ ] Refactor code from mess to minimal 
+- [ ] Merge all the dotfiles into a single folder 
+- [ ] Make dotfiles to install with just one drag and drop (Archcraft) 
+- [ ] Add delight to the experience when all tasks are complete
 
 ---
 
@@ -46,7 +55,7 @@
 - Copy entire folder _`polybar-scripts`_ to **`Home-dir`**
 - Copy Everything from _`fonts`_ to **`~/.local/share/fonts/`** 
 - Copy Everything from _`conky`_ to **`~/.config/conky/`**
-- Copy everforest folder from _`gtk`_ to **`~/usr/share/themes`**
+- First extract and then copy Everforest-Dark folder from _`gtk`_ to **`~/usr/share/themes`**
 - Select pistachio form themes menu (Archcraft)
 
 ---
