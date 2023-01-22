@@ -37,8 +37,8 @@
 <img align="right" src="https://github.com/parazeeknova/pistachio-V2-dotfiles/blob/main/resources/rice.gif?raw=true" width='240'/>
 
 - **Get the files from** : Here (Soon)
-- If you are using _`Archcraft`_ as your OS, You can just replace openbox folder from the dotfile. <br>
-( ***NOTE-FOR-ARCHCRAFT-USER'S*** : This Openbox config only contains Bitwise-forest theme. First ***BACKUP*** your default config to a seperate folder .)
+- Only works on _`Archcraft`_ , You can still use/replace openbox folder for the dotfiles and configure them. <br>
+( ***NOTE-FOR-ARCHCRAFT-USER'S*** : This Openbox config only contains two folders openbox and openbox-themes. First ***BACKUP*** your default config to a seperate folder.)
 - Install the following programs on your computer: [`cava`](https://github.com/karlstav/cava) [`Zafiro`](https://www.gnome-look.org/p/1209330) [`Phinger-cursors`](https://github.com/phisch/phinger-cursors) 
 - After installing programs above, Create openbox directory in **`~/.config`** : `mkdir -p ~/.config/openbox`
 - Copy Entire contents of _`openbox`_ to **`~/.config/openbox`** 
