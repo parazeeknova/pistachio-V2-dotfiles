@@ -40,13 +40,13 @@
 - Only works on _`Archcraft`_ , You can still use/replace openbox folder for the dotfiles and configure them. <br>
 ( ***NOTE-FOR-ARCHCRAFT-USER'S*** : This Openbox config only contains two folders openbox and openbox-themes. First ***BACKUP*** your default config to a seperate folder.)
 - Install the following programs on your computer: [`cava`](https://github.com/karlstav/cava) [`Zafiro`](https://www.gnome-look.org/p/1209330) [`Phinger-cursors`](https://github.com/phisch/phinger-cursors) 
-- After installing programs above, Create openbox directory in **`~/.config`** : `mkdir -p ~/.config/openbox`
+- After installing programs above, Create openbox (If it isn't)directory in **`~/.config`** : `mkdir -p ~/.config/openbox`
 - Copy Entire contents of _`openbox`_ to **`~/.config/openbox`** 
 - Copy Entire contents of _`openbox-themes`_ to **`~/.config/openbox-themes`** 
-- Copy Everything from _`polybar-scripts`_ to **`Home-dir`**
+- Copy entire folder _`polybar-scripts`_ to **`Home-dir`**
 - Copy Everything from _`fonts`_ to **`~/.local/share/fonts/`** 
 - Copy Everything from _`conky`_ to **`~/.config/conky/`**
-- Copy everforest from _`gtk`_ to **`~/usr/share/themes`**
+- Copy everforest folder from _`gtk`_ to **`~/usr/share/themes`**
 - Select pistachio form themes menu (Archcraft)
 
 ---
