@@ -14,6 +14,9 @@
 - **Polybar Bars** : Added more bars for functionality and modules 
 - **Base Theme** : Changed base theme from bitwise-forest to everforest 
 
+## 🏷️ Known issue : 
+- After reboot you need to reselect Pistachio Theme. 
+
 ---
 
 ## 🌏 Overview :
